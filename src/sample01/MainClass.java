@@ -4,6 +4,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		System.out.println("헬로우 자바");
+		System.out.println("수정하였음!!!!!");
 		System.out.println("Hello World"); // ln은 줄 바꿈
 		System.out.print("Hello"); // 커서 위치 확인(줄 바꿈 없음)
 		System.out.print("월드");
